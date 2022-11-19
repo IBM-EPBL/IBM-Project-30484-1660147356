@@ -1,6 +1,6 @@
 # IBM-Project-30484-1660147356
 Early Detection of Chronic Kidney Disease using Machine Learning
-TEAM MEMBERS 
+#TEAM MEMBERS 
 G.ranjith Kumar 
 G CHAKRADHAR REDDY 
 B. Purna Srinivas 
